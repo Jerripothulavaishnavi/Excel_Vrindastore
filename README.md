@@ -27,7 +27,7 @@ This beginner-friendly project focuses on analyzing e-commerce sales data using 
 
 1. **🗃️ Dataset Details**
 
-File Name: rawdata of Vrindastore.xlsx
+File Name:  ` Raw dtaa of Vrinda store.xlsx`
 
 Primary Sheet: Vrinda Store
 
