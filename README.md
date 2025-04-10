@@ -131,6 +131,6 @@ Annual dashboard summarizing sales, customer demographics, channel performance, 
 - Microsoft Excel: Pivot Tables, Charts, Filters, Formulas, Conditional Formatting
 - Data Type Handling: Text cleanup, numeric validations, categorization
 
-
+## 
 Thank you for reviewing this project. Your feedback and suggestions are welcome to improve and enhance this analysis.
 
