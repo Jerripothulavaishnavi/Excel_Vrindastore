@@ -5,7 +5,7 @@
 **Project Title**: Analysis of Vrinda store Annual sales
 
 **Level**: Beginner  
-**Dataset**: `Vrinda store.xlsx`
+**Dataset**: `Vrindastore.xlsx`
 
 📌 Overview
 
@@ -28,7 +28,7 @@ This beginner-friendly project focuses on analyzing e-commerce sales data using 
 
 1. **🗃️ Dataset Details**
 
-File Name:  ` Raw dtaa of Vrinda store.xlsx`
+File Name:  ` Raw data of Vrinda store.xlsx`
 
 Primary Sheet: Vrinda Store
 
