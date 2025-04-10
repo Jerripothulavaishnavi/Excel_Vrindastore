@@ -10,6 +10,7 @@
 
 This beginner-friendly project focuses on analyzing e-commerce sales data using Microsoft Excel. It covers the complete data journey—from import and cleaning to processing and insightful dashboard creation. The dataset includes customer-level transaction details, offering a comprehensive look at order status, customer demographics, product categories, sales channels, and regional performance.
 
+![E-Commerce Store Banner](./ecommerce-banner.png)
 
 
 ## 🎯Objectives
@@ -83,7 +84,7 @@ The analysis is split across several worksheets:
 - Geographical Map: Top 10 states highlighted by performance.
 - KPI Snapshots: Quick-view metrics for sales, orders, and delivery rates.
 
-## 📈 Summary Sheets** :
+## 📈 Summary Sheets:
 The analysis is split across several worksheets:
 
 - **Monthly Sales vs Orders**: Monthly trends in sales and orders.
